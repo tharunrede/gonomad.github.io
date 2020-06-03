@@ -1,0 +1,59 @@
+h1{
+	color: white;
+	text-align: center;
+  
+  font-family: 'Vast Shadow', cursive;
+    font-size: 60px;
+
+}
+/*body{
+	  background-image: url("fl.jpg");
+      background-repeat: repeat;
+
+}*/
+
+.head{
+  font-size: 20px;
+
+}
+
+
+table, th, td {
+  border: px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+th {
+  text-align: left;-collapse: collapse;
+}
+
+div.polaroid {
+  width: 90%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 15px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+p{
+	font-size: 20px; 
+}
+
+
+
+
+
+
+ 
+a: hover{
+  background-color: red;
+  }
+
+
+
